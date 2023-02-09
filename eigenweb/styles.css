@@ -1,0 +1,78 @@
+body {
+    margin: auto;
+}
+
+nav{
+    background-color: darkblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+    color: white;
+    justify-content: space-around;
+
+}
+.top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+a {color: white;}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+.frame {
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+}
+
+body {
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+}
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+.hobbies {
+    display: flex;
+    flex-direction:column-reverse;
+}
+.gamen {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.tips {
+    display: flex;
+    flex-direction: column-reverse;
+}
+p {
+    padding: 10px;
+}
+.home {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 125px;
+}
+footer {
+    background-color: darkblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+.link:hover {
+    background-color: rgb(118, 221, 255);
+    height: 20px;
+    border:1px solid black;
+
+}

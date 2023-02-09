@@ -1,0 +1,133 @@
+body {
+    margin: auto;
+}
+
+nav{
+    background-color: darkblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+    color: white;
+    justify-content: space-around;
+
+}
+.top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+.frame {
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+}
+h2 {display: flex;
+    justify-content: center;
+}
+
+a {color: white;}
+.hobbies {
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 800px;
+    height: 200px;
+}
+
+.sport {background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 800px;
+    height: 200px;
+}
+.h {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.s {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.voetbal {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.gamen {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.tim {
+    width: 400px;
+    height: 800px;
+    border-radius: 20px;
+    
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.homes {
+    display: flex;
+    flex-direction: column;
+}
+.hns {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-bottom: 30px;
+
+}
+.overmij {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-bottom: 80px;
+}
+.ti {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+body {
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+}
+.ga {
+    background-color: black;
+    border-radius: 20px;
+    height: 100px;
+    padding-left: 150px;
+}
+.video {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: darkblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+.link:hover {
+    background-color: rgb(118, 221, 255);
+    
+    border:1px solid black;
+
+}

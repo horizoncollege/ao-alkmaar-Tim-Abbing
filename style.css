@@ -3,11 +3,10 @@
     height: 150px;
 }
 img {
-    width: 300px;
-    height: 300px;
+    width: 290px;
+    height: 290px;
     border-radius: 20px;
 }
-.fotos {
-    display: flex;
-
+nav {
+    text-align: center;
 }
