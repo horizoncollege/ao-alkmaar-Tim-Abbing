@@ -1,0 +1,13 @@
+.dashboard {
+    background-color: rgb(119, 199, 228);
+    height: 150px;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.fotos {
+    display: flex;
+
+}
