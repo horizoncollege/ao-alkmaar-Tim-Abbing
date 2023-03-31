@@ -1,0 +1,10 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+.overmij {
+    border: 1mm solid rgb(144, 144, 144);
+    background-color: antiquewhite;
+    border-radius: 20px;
+    width: 500px;
+}
